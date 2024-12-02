@@ -22,4 +22,11 @@ body {
   .swiper-button-prev {
     color: #000;
   }
-  
+  .swiper-button-next:hover{
+    color: red;
+    transition: 0.8s;
+  }  
+  .swiper-button-prev:hover{
+    color: red;
+    transition: 0.8s;
+  }

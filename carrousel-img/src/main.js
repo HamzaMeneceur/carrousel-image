@@ -7,6 +7,7 @@ import 'swiper/swiper-bundle.css';
 // Configuration Swiper
 const swiper = new Swiper('.swiper', {
   modules: [Navigation], // Charge le module de navigation
+
   loop: true, // Active la navigation en boucle
   centeredSlides: true, // Centre la slide active
   slidesPerView: 1, // Affiche une seule slide à la fois
